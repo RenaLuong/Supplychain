@@ -1,7 +1,8 @@
 '''
-1. Which months does have the highest sales? 2023: April, 2022: May ==> January
-2. Which months does have the highest revenue? 2023: April, 2022: January ==> March
-3. Calculate Bias, MAE, MAPE, RMSE: quarter, products
+This is a sales report of APM Springs product: OEM, REM, report in 2022,2023
+1. Which months does have the highest sales? 2023: April, 2022: May ==> January in total
+2. Which months does have the highest revenue? 2023: April, 2022: January ==> March in total
+3. Calculate Bias, MAE, MAPE, RMSE: quarter, products --> show the error, calculate the accuracy and bias of the demand forecast 
 '''
 
 import pandas as pd
