@@ -1,3 +1,11 @@
+'''
+This is a donut delivery process of a company:
+1. How many late delivery until the present?
+2. The reason and how many percentage they account for, causing the late delivery?
+3. Show the chart visualizing makes it easy to analyse, and solve th eproblem based on which priority first?
+'''
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
