@@ -1,3 +1,8 @@
+'''
+Which months sales is the best?
+Which store should focus on?
+Which time in day should we run advertisement?
+'''
 
 #Import
 import pandas as pd
